@@ -1,0 +1,8 @@
+Deep generative learning is deep learning that focuses on creating new output from learned input. 
+Traditionally, deep learning focused on identifying relationships between data. Deep learning models 
+were trained with large amounts of data to recognize patterns in the data set.
+
+Deep generative learning adds generation to pattern recognition.
+ Such models look for data patterns and then create their own unique patterns. 
+ For example, they can analyze the text in several books and then use the information to generate new sentences and 
+ paragraphs not found in the original books.
